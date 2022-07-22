@@ -1,1 +1,1 @@
-# Potato-image-classification
+# Potato-disease-classification
